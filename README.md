@@ -105,7 +105,8 @@ Curious and committed software developer with strong fundamentals in Python, Jav
 </table>
 
 ---
-
+<img src="Jitendra_Verma.png"/>
+<br>
 <h2>🚀 Let’s Build Something Great Together!</h2>
 
 </div>

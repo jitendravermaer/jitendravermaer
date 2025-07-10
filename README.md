@@ -38,21 +38,12 @@ Curious and committed software developer with strong fundamentals in Python, Jav
   <a href="https://www.linkedin.com/in/jitendra-verma-a6606923b/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-
-
-  
   <a href="mailto:jitendrasewaliya6@gmail.com" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" width="40" />
-  </a>
-
-
-  
+  </a> 
   <a href="https://github.com/jitendravermaer" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
-
-
-  
   <a href="https://www.instagram.com/jitendrasewaliya_verified/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>

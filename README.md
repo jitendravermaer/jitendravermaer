@@ -104,6 +104,50 @@ Curious and committed software developer with strong fundamentals in Python, Jav
   </tr>
 </table>
 
+<div class="slider">
+
+<div class="slide">
+
+<img src="1.jpg">
+
+</div>
+
+<div class="slide">
+
+<img src="2.jpg">
+
+</div>
+
+<div class="slide">
+
+<img src="3.jpg">
+
+</div>
+
+<div class="slide">
+
+<img src="4.jpg">
+
+</div>
+
+</div>
+
+</div>
+
+
+
+slider (
+
+position: absolute;
+
+width: 100%; height: 100%;
+
+transform-style: preserve-3d;
+
+animation: rotate 15s infinite linear;
+
+}
+
 ---
 <img src="Jitendra_Verma.png"/>
 <br>
